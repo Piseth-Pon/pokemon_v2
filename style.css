@@ -1,0 +1,49 @@
+body {
+    background-color: darkcyan;
+}
+
+
+.banner {
+    height: 500px;
+
+    background-image: url('./banner.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.nav {
+   height: 100px;
+   background-color: brown; 
+   text-align: center;
+   padding-top: 15px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+}
+
+
+.card {
+    width: 300px;
+    height: 400px;
+    border: 2px solid white;
+
+    display: inline-block;
+    margin: 10px;
+}
+
+.card img {
+    width: 100%;
+}
+
+.gallery {
+    text-align: center;
+}
+
+
+
+
+
+
